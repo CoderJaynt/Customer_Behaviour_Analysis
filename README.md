@@ -77,13 +77,13 @@
 
 </div>
 
-## 🛠️ How To Use This Project
+## 🛠️ How To Use This Project: 
 <div style=" background: linear-gradient(135deg,#000428,#004e92); padding:25px; border-radius:18px; box-shadow: 0px 0px 20px rgba(0,78,146,0.6); color:white; line-height:1.8; ">
 1️⃣ Clone the Repository
 <pre> git clone (https://github.com/CoderJaynt/Customer_Behaviour_Analysis.git) cd customer-trends-data-analysis-SQL-Python-PowerBI </pre>
 2️⃣ Open the Notebook
 
-#### Open:
+#### Open->
 
 <pre> Customer_Shopping_Behavior_Analysis.ipynb </pre>
 
